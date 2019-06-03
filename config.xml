@@ -7,7 +7,7 @@
 
 
 
-    <name>SelfHelp</name>
+    <name>HelpDiab</name>
 
     <description>
        Diabates Prevention
@@ -23,7 +23,7 @@
 	<plugin name="cordova-plugin-sms-receive" source="npm" spec="1.0.2" /--> 
 	
 	
-    <icon src="icons/logo.jpg" />
+    <icon src="icons/logo2.jpg" />
 	  <allow-intent href="http://*/*" />
 	  <allow-intent href="http://responsivefoodfeedingsrilanka.blogspot.com/" />
 	  <allow-intent href="tel:*" />
